@@ -13,6 +13,7 @@ http://your_vm_ip:5002/training-api/model
 # Extending the Lab Example with Training-API
 
 
+
 sudo docker ps -a
 
 sudo docker start prediction-ui
